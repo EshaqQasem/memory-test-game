@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\VCsharp\adv programing\memoryTestGame\memoryTestGame\bin\Debug\memoryTestGame.exe.config
+C:\Users\DELL\Desktop\VCsharp\adv programing\memoryTestGame\memoryTestGame\bin\Debug\memoryTestGame.exe
+C:\Users\DELL\Desktop\VCsharp\adv programing\memoryTestGame\memoryTestGame\bin\Debug\memoryTestGame.pdb
+C:\Users\DELL\Desktop\VCsharp\adv programing\memoryTestGame\memoryTestGame\obj\Debug\memoryTestGame.Properties.Resources.resources
+C:\Users\DELL\Desktop\VCsharp\adv programing\memoryTestGame\memoryTestGame\obj\Debug\memoryTestGame.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\VCsharp\adv programing\memoryTestGame\memoryTestGame\obj\Debug\memoryTestGame.exe
+C:\Users\DELL\Desktop\VCsharp\adv programing\memoryTestGame\memoryTestGame\obj\Debug\memoryTestGame.pdb
+C:\Users\DELL\Desktop\VCsharp\adv programing\memoryTestGame\memoryTestGame\obj\Debug\memoryTestGame.mainForm.resources
+C:\Users\DELL\Desktop\VCsharp\adv programing\memoryTestGame\memoryTestGame\obj\Debug\memoryTestGame.playingForm.resources
+C:\Users\DELL\Desktop\VCsharp\adv programing\memoryTestGame\memoryTestGame\obj\Debug\memoryTestGame.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\VCsharp\adv programing\memoryTestGame\memoryTestGame\obj\Debug\memoryTestGame.Form1.resources
